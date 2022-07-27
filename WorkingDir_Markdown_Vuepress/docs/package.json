@@ -1,0 +1,19 @@
+{
+  "name": "TO Help Working_Dir",
+  "version": "0.0.1",
+  "description": "Template Files",
+  "main": "index.js",
+  "authors": {
+    "name": "Jerôme",
+    "email": "b.testjer@gmail.com"
+  },
+  "repository": "https://github.com/jezi89/TO_Help_workingDir.git/TO Help Working_Dir",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^0.14.11"
+  }
+}
